@@ -1,0 +1,48 @@
+2021-05-02T07:48:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_hstyle() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:10
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 10
+
+2021-05-02T08:43:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_homecss() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 12
+
+2021-05-02T08:44:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_homecss() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 12
+
+2021-05-02T08:45:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_homecss() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 12
+
+2021-05-02T08:45:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_homecss() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:5
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 5
+
+2021-05-02T08:45:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_homecss() in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php:5
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\blank\home-template.php on line 5
+
